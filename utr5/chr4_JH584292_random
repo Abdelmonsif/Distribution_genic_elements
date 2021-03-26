@@ -1,0 +1,4 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin
+chr4_JH584292_random	3535	10591	uc029vda.1_5utr	+	2	0,7054,	291,2	293	15
+chr4_JH584292_random	3535	3620	uc029vcy.1_5utr	+	1	0,	85	85	4
+chr4_JH584292_random	3535	3620	uc029vcz.1_5utr	+	1	0,	85	85	4

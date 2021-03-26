@@ -1,0 +1,4 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin	gene_id
+chr7_GL456219_random	94188	95088	uc009veq.2_cds	-	1	0,	900	900	45	Vmn1r62
+chr7_GL456219_random	149263	150163	uc012fyf.1_cds	-	1	0,	900	900	45	Vmn1r187
+chr7_GL456219_random	149263	150163	uc009ver.2_cds	-	1	0,	900	900	45	Vmn1r63

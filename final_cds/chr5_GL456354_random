@@ -1,0 +1,6 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin	gene_id
+chr5_GL456354_random	6365	8936	uc029vso.1_cds	+	3	0,741,2228,	287,591,343	1221	61	A430089I19Rik
+chr5_GL456354_random	82995	86051	uc029vsq.1_cds	-	3	0,1525,2769,	565,591,287	1443	72	Gm3286
+chr5_GL456354_random	82995	86051	uc029vsr.1_cds	-	3	0,1525,2769,	565,591,287	1443	72	Gm3286
+chr5_GL456354_random	82995	86051	uc029vsp.1_cds	-	3	0,1525,2769,	565,591,287	1443	72	E330014E10Rik
+chr5_GL456354_random	158542	161336	uc029vss.1_cds	+	3	0,741,2229,	287,591,565	1443	72	BC061212

@@ -1,0 +1,7 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin
+chr4_JH584294_random	1717	2017	uc029ves.1_5utr	+	1	0,	300	300	15
+chr4_JH584294_random	3059	3093	uc029vet.1_5utr	+	1	0,	34	34	2
+chr4_JH584294_random	10697	13572	uc029veu.1_5utr	-	2	0,2746,	172,129	301	15
+chr4_JH584294_random	64229	82688	uc029vev.1_5utr	-	3	0,4021,18384,	53,211,75	339	17
+chr4_JH584294_random	104139	104327	uc029vfg.1_5utr	-	1	0,	188	188	9
+chr4_JH584294_random	121713	121788	uc029vfh.1_5utr	-	1	0,	75	75	4

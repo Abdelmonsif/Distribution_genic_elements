@@ -1,0 +1,4 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin	gene_id
+chrUn_JH584304	25420	58616	uc029xhj.1_cds	-	3	0,31565,33143,	21,166,53	240	12	Pisd-ps3
+chrUn_JH584304	40114	41121	uc029xhl.1_cds	+	3	0,481,935,	72,96,72	240	12	AK197701
+chrUn_JH584304	56949	58616	uc029xho.1_cds	-	2	0,1614,	202,53	255	13	Pisd-ps3

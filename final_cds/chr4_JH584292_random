@@ -1,0 +1,4 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin	gene_id
+chr4_JH584292_random	3620	11389	uc029vcy.1_cds	+	5	0,2037,2697,4339,6969,	206,283,804,229,800	2322	116	Vmn2r122
+chr4_JH584292_random	3620	11389	uc029vcz.1_cds	+	5	0,2037,2697,5691,6969,	206,283,804,124,800	2217	111	Vmn2r122
+chr4_JH584292_random	10591	11389	uc029vda.1_cds	+	1	0,	798	798	40	Vmn2r122

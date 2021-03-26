@@ -1,0 +1,4 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin
+chrUn_JH584304	40110	40114	uc029xhl.1_5utr	+	1	0,	4	4	0
+chrUn_JH584304	58616	59689	uc029xho.1_5utr	-	2	0,975,	219,98	317	16
+chrUn_JH584304	58616	58835	uc029xhj.1_5utr	-	1	0,	219	219	11

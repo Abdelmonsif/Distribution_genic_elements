@@ -1,0 +1,2 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin	gene_id
+chr1_GL456212_random	128949	147688	uc008idk.1_cds	-	11	0,1769,2354,6203,7579,8890,10065,11716,14032,16894,18592,	51,143,102,69,153,81,78,78,267,169,147	1338	67	Sp110

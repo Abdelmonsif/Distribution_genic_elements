@@ -1,0 +1,3 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin
+chr1_GL456221_random	27528	30203	uc009oad.1_5utr	-	2	0,2521,	47,154	201	10
+chr1_GL456221_random	114053	163011	uc009oae.1_5utr	-	2	0,48744,	23,214	237	12

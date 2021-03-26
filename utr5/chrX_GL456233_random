@@ -1,0 +1,5 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin
+chrX_GL456233_random	32523	39191	uc057atv.1_5utr	-	2	0,6501,	61,167	228	11
+chrX_GL456233_random	32575	39191	uc009uym.2_5utr	-	2	0,6449,	9,167	176	9
+chrX_GL456233_random	105456	106392	uc009uyn.1_5utr	-	2	0,811,	116,125	241	12
+chrX_GL456233_random	159646	216736	uc009uyo.1_5utr	+	2	0,57089,	127,1	128	6

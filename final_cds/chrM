@@ -1,0 +1,2 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin	gene_id
+chrM	9876	10170	uc009vfb.1_cds	+	1	0,	294	294	15	AK142750

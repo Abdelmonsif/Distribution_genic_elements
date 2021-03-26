@@ -1,0 +1,2 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin	gene_id
+chr4_GL456216_random	16298	35433	uc009vdc.1_cds	+	7	0,14400,14760,15071,17839,18325,18934,	109,108,69,102,208,208,201	1005	50	Dhrsx
