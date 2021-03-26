@@ -1,0 +1,4 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin
+chr7_GL456219_random	93810	94188	uc009veq.2_3utr	-	1	0,	378	378	19
+chr7_GL456219_random	148880	149263	uc009ver.2_3utr	-	1	0,	383	383	19
+chr7_GL456219_random	149260	149263	uc012fyf.1_3utr	-	1	0,	3	3	0

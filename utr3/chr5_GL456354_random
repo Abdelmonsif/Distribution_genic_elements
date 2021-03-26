@@ -1,0 +1,6 @@
+chr	start	end	transcript_id	strand	number_of_exons	coordinates	length1	total_length	bin
+chr5_GL456354_random	8936	9462	uc029vso.1_3utr	+	1	0,	526	526	26
+chr5_GL456354_random	82558	82995	uc029vsq.1_3utr	-	1	0,	437	437	22
+chr5_GL456354_random	82558	82995	uc029vsr.1_3utr	-	1	0,	437	437	22
+chr5_GL456354_random	82558	82995	uc029vsp.1_3utr	-	1	0,	437	437	22
+chr5_GL456354_random	161336	161386	uc029vss.1_3utr	+	1	0,	50	50	2
