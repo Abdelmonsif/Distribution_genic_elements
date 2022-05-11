@@ -1,3 +1,5 @@
+## Distribution_genic_elements:
+
 A python script to specify the location of the read from sam file with transcripts information on the mRNA 
 
 
