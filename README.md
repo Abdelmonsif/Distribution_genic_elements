@@ -11,6 +11,11 @@ we found that average length of 5'UTR is 173 nucleotides
 we found that average length of CDS is 1128 nucleotides
 we found that average length of 3'UTR is 710 nucleotides
 
+in Human genome hg19: 
+we found that average length of 5'UTR is 278 nucleotides
+we found that average length of CDS is 1507 nucleotides
+we found that average length of 3'UTR is 1112 nucleotides
+
 so, we created custom number of bins where 5'UTR is represented as 20 bins, CDS is represented as 100 bin, 3'UTR is represented as 70 bins
 
 
